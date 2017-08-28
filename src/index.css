@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.nav {
+  margin-bottom: 60px;
+}
+
+.container-fluid {
+  width: 80%;
+}
+
+.footer {
+  background: #222222;
+  color: lightgray;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+}
